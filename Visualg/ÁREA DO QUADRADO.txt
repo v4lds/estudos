@@ -1,0 +1,9 @@
+algoritmo "Área do Quadrado"
+var
+  N1, A: Inteiro
+inicio
+      Escreval ("Informe um lado: ")
+      Leia (N1)
+      A <- (N1 * N1)
+      Escreva ("A Área do seu quadrado é igual a: ", A)
+fimalgoritmo
